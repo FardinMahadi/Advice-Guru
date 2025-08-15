@@ -10,7 +10,7 @@ A simple React app that fetches and displays random advice using the [Advice Sli
 
 ## Live Demo
 
-[Live Site](https://your-live-link-here.com)
+[Live Site](https://advice-guru.vercel.app/)
 
 ## Getting Started
 
@@ -23,7 +23,7 @@ A simple React app that fetches and displays random advice using the [Advice Sli
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/advice-project.git
+   git clone https://github.com/FardinMahadi/Advice-Guru.git
    cd advice-project
    ```
 2. Install dependencies:
